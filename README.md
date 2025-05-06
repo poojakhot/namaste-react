@@ -1,0 +1,1 @@
+React is called React because it's designed to react to changes in data by efficiently updating the user interface. Instead of reloading the entire page, React updates only the necessary parts of the webpage, making it fast and responsive. This reactive nature is a core principle of React's architecture. 
